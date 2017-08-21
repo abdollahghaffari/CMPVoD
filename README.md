@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+# CMPVoD
+## CMPVoD is an architecture for P2P video on demand streaming.It is simulated by OMNET++ 4.1.
+### This is simulation code of CMPVoD. CMPVoD runs on OMNET++ 4.1. If you use upper versions of OMNET++, you need to change the code. CMPVoD needs to build inet (this is exists in the attached package- add and built it). CMPVoD is simulation codes of the following papers:
+### [1] An adaptive buffer-map exchange mechanism for pull-based peer-to-peer video-on-demand streaming systems
+### [2] A free-riding resiliency incentive mechanism for VoD streaming over hybrid CDN-P2P networks
+### [3] CMPVoD: A cluster mesh-based architecture for VoD streaming over hybrid CDN-P2P networks
+### [4] A study on repeat-request chunks in pull-based peer-to-peer video-on-demand streaming
 
-You can use the [editor on GitHub](https://github.com/abdollahghaffari/CMPVoD/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/abdollahghaffari/CMPVoD/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
